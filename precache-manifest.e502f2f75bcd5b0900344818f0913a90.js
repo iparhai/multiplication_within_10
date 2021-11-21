@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "47845122a1f45ea90dcd",
+    "revision": "45bd6d2b88bd03cdd96b",
     "url": "/multiplication_within_10/static/css/main.9d144f30.chunk.css"
   },
   {
-    "revision": "47845122a1f45ea90dcd",
-    "url": "/multiplication_within_10/static/js/main.9945199d.chunk.js"
+    "revision": "45bd6d2b88bd03cdd96b",
+    "url": "/multiplication_within_10/static/js/main.361f9a58.chunk.js"
   },
   {
     "revision": "3cc7c77f9ec506a1260a",
@@ -112,8 +112,8 @@ self.__precacheManifest = [
     "url": "/multiplication_within_10/static/media/instructions.8164e48c.gif"
   },
   {
-    "revision": "efc0e3314bf0a9623a140aa5e147db9f",
-    "url": "/multiplication_within_10/static/media/background.efc0e331.gif"
+    "revision": "68818806d9bf0ab34bf79965ea51711d",
+    "url": "/multiplication_within_10/static/media/background.68818806.gif"
   },
   {
     "revision": "b512cd285a5ca16e6e3ec0c535047a76",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/multiplication_within_10/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "2c4d454c8d41e593f575a8a31d90b0c4",
+    "revision": "c917e142e04d31c36fdcc282939d03f8",
     "url": "/multiplication_within_10/index.html"
   }
 ];
